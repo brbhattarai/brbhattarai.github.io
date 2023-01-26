@@ -2,12 +2,10 @@
 title: 'सरकार भोकै बसौँ ? अत्यावश्यक कामबाहेक घर बाहिर ननिस्कौँ?'
 date: 2020-08-27
 permalink: /posts/2020/08/post-1/
-Author: Balaram Bhattarai
 tags:
   - Harwa Charwa
   - Covid-19
 ---
-### सरकार भोकै बसौँ ? अत्यावश्यक कामबाहेक घर बाहिर ननिस्कौँ?
 #### -Balaram Bhattarai
 This article was posted in Paschim Today on 27 August 2020. This is a [link to the article](https://paschimtoday.com/news-details/21794/2020-08-27?fbclid=IwAR0Q8L9REXbjgJrJXgHvYlK_iKPRPwRMNlzCdNcoPcKHVGDun8k0FS6Jdu4){:target="_blank"}
 

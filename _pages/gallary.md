@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Grants, Awards & Achievements"
-permalink: /grants-awards/
+title: "Gallaries"
+permalink: /gallary/
 author_profile: true
 redirect_from:
-  - /grants-awards
+  - /gallary
 ---
 ## Grants
 * Deakin University Postgraduate Research Scholarship (DUPRS) [2022-]

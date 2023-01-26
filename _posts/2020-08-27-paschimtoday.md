@@ -7,7 +7,7 @@ tags:
   - Covid-19
 ---
 ### -Balaram Bhattarai
-This article was posted in Paschim Today on 27 August 2020. This is a [link to the published article](https://paschimtoday.com/news-details/21794/2020-08-27?fbclid=IwAR0Q8L9REXbjgJrJXgHvYlK_iKPRPwRMNlzCdNcoPcKHVGDun8k0FS6Jdu4){:target="_blank"}
+This article was posted in Paschim Today on 27 August 2020. This is a [<span style="color:green">*link to the published article*</span>](https://paschimtoday.com/news-details/21794/2020-08-27?fbclid=IwAR0Q8L9REXbjgJrJXgHvYlK_iKPRPwRMNlzCdNcoPcKHVGDun8k0FS6Jdu4){:target="_blank"}
 
 कोराना सक्रमणका कारणले मुलुकको विभिन्न स्थानमा बन्दाबन्दी र निषेधाज्ञा जारी छ । देश, सञ्चार माध्यम र सामाजिक सञ्जाल कोरोनामय छन् । त्यस्तै तीनै तहका सरकार समेत कोरोना नियन्त्रणका लागि प्रयत्न गरिरहेको अभाष गराउने प्रयत्नमा रहेको देखिन्छ । यद्यपि कोरोना नियन्त्रणका नाममा केही पदाधिकारी र व्यक्तिको आगामी दिन उज्जवल हुने प्राय निश्चित छ । भ्रष्टाचार संस्कृति भएको देशमा यसलाई कसरी पो अन्यथा भन्न सकिएला र ? सबै क्षेत्रबाट सबैमा अनुरोध भए जस्तो लाग्छ, सुनिन्छ अत्यावश्यक काम बाहेक घर बाहिर ननिस्कौँ । अर्थात् घरमै बसौँ, सुरक्षित बसौँ । सायद यस्तो अवस्थामा सुरक्षित बस्ने चाहना सबैको हुन्छ होला । आखिर यो अत्यावश्यक काम सबैका लागि समान हुन्छ कि पृथक ? करिब ६ महिना पुग्न थालेको यो बन्दाबन्दीमा अत्यावश्यक काम कुलिन, सभ्रान्त, सरकारी सेवामा रहेका, व्यापारी, गैरसरकारी क्षेत्र र दैनिक मजदुरी गरी आफनो आधारभूत आवश्यकता पुरा गर्ने वर्गका बीचमा फरक–फरक हुन सक्छन् कि सक्दैन ? र त्यही अनुसार नागरिकले आफुलाई व्यवस्थापन गर्ने प्रयत्न गरेको हुन्छन् ।
 

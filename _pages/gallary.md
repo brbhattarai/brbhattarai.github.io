@@ -6,5 +6,5 @@ author_profile: true
 redirect_from:
   - /gallary
 ---
-# Newspaper Feature Articles
+## Newspaper Feature Articles
 * 

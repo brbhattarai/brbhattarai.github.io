@@ -7,4 +7,4 @@ redirect_from:
   - /gallary
 ---
 ## Newspaper Feature Articles
-* 
+* [हरवा चरवाद्वारा पुनरस्थापनाको माग](https://gorkhapatraonline.com/news/51950?fbclid=IwAR26qpQlTuZNB7f9gP2nUUoFt4EZxhbYZlmlKOOMOHIME_BCtMKlC0Kwofo){:target="_blank"} in Gorkhapatra Online on 3 Jan. 2023 (9 Magh 2079)

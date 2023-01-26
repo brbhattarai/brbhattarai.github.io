@@ -13,11 +13,8 @@ main:
   - title: "Experiences"
     url: /service/
   
-  - title: "Poetry"
+  - title: "Blogs"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /files/CV_Dhiraj_Web.pdf
     
   - title: "Contacts"
     url: /contacts/

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Galleries
+title: "Galleries"
 permalink: /gallery/
 author_profile: true
 redirect_from:

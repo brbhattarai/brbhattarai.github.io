@@ -18,7 +18,7 @@ Physical
 Digital
 --------------
 
-<b>[<span style="color:green">*Email*</span>](mailto:balarambhattarai31@gmail.com){:target="_blank"} </b>
+<b>[<span style="color:green">*Email*</span>](mailto:cst.kailali@gmail.com){:target="_blank"} </b>
 
 <b>[<span style="color:green">*Facebook*</span>](https://www.facebook.com/balaram.bhattarai){:target="_blank"} </b>
 

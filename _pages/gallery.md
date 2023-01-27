@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Gallaries"
-permalink: /gallary/
+title: "Galleries
+permalink: /gallery/
 author_profile: true
 redirect_from:
-  - /gallary
+  - /gallery
 ---
 ## Newspaper Featured Articles
 * [<span style="color:green">*Harawa Charawa who were declared free, looking for liberation in the Singha Durbar*</span>](https://samatakhabar.com/2023/01/24/15694/){:target="_blank"} in Samata Khabar Online on 26 Jan. 2023 (12 Magh 2079)

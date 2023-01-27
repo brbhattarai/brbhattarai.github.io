@@ -10,9 +10,9 @@ redirect_from:
 Physical
 --------------
 
-Kathmandu, Nepal [Current]
+**Kathmandu, Nepal** [_Current_]
 
-Kailali, Nepal [Permanent]
+**Kailali, Nepal** [_Permanent_]
 
 
 Digital
@@ -21,3 +21,5 @@ Digital
 <b>[<span style="color:green">*Email*</span>](mailto:balarambhattarai31@gmail.com){:target="_blank"} </b>
 
 <b>[<span style="color:green">*Facebook*</span>](https://www.facebook.com/balaram.bhattarai){:target="_blank"} </b>
+
+<b>[<span style="color:green">*Twitter*</span>](https://twitter.com/BalaRam9858){:target="_blank"} </b>

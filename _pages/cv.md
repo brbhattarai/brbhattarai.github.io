@@ -15,7 +15,6 @@ Education
 * __Bachelor's degree in Law__, TRIBHUVAN UNIVERSITY, NEPAL _1992_
 * __Intermediate in Law__,TRIBHUVAN UNIVERSITY, NEPAL _1988_
 
-
 Positions held
 --------------
 * **Advocacy and Legal Consultant of The Freedom Fund** [2018 — present]

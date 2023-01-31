@@ -3,12 +3,12 @@ main:
   
   - title: "Galleries"
     url: /gallery/    
-    
-  - title: "CV"
-    url: /cv/
   
   - title: "Blogs"
     url: /year-archive/
+    
+  - title: "CV"
+    url: /cv/
     
   - title: "Contacts"
     url: /contacts/

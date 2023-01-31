@@ -31,4 +31,4 @@ Other Experiences
 * **Founder Advisor of Rastriya Dalit Network** [2001 — present]
 * **Secratray at Coalition for Human Right Far west Region** [2001 — present]
 
-### See my extended CV [<span style="color:Green">*here*</span>](https://github.com/brbhattarai/portfolio/tree/main/files/CV_BRB.pdf "CV")
+### See my extended CV [<span style="color:Green">*here*</span>](https://github.com/brbhattarai/portfolio/files/CV_BRB.pdf "CV")

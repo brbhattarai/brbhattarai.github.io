@@ -4,8 +4,8 @@ main:
   - title: "Galleries"
     url: /gallery/    
     
-  - title: "Experiences"
-    url: /service/
+  - title: "CV"
+    url: /cv/
   
   - title: "Blogs"
     url: /year-archive/

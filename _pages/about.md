@@ -16,7 +16,6 @@ Hello ! नमस्ते ! I am Balaram Bhattarai, an Advocate and a Campaigne
 Recent updates
 ----------------------
 * __Meeting with Labor Ministry__ [29 Jan 2023 (15 Magh 2079)]
-![Picture](https://github.com/brbhattarai/portfolio/blob/main/images/meeting_1_magh15.jpg?raw=true)
 ![Picture](https://github.com/brbhattarai/portfolio/blob/main/images/meeting_magh15.jpg?raw=true)
 
 

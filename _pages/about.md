@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 ![alt text](https://github.com/brbhattarai/portfolio/blob/main/images/aboutBRB.jpg?raw=true)
 
 

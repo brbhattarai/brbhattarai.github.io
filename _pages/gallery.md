@@ -13,7 +13,7 @@ redirect_from:
 
 ## Meetings
 
-*  [<span style="color:green">*Interaction Program**</span>](https://github.com/brbhattarai/portfolio/blob/main/images/meet3.png?raw=true){:target="_blank"} on 11 Feb 2023 (28 Magh 2079)
+* [<span style="color:green">*Interaction Program*</span>](https://github.com/brbhattarai/portfolio/blob/main/images/meet3.png?raw=true){:target="_blank"} on 11 Feb 2023 (28 Magh 2079)
 
 * [<span style="color:green">*Leadership Development and Policy Making Program*</span>](https://github.com/brbhattarai/portfolio/blob/main/images/meet2.jpg?raw=true){:target="_blank"} on 9-11 Feb 2023 (26-28 Magh 2079)
 

@@ -15,8 +15,16 @@ Hello 👋 नमस्ते 🙏 I am Balaram Bhattarai, an Advocate and a Cam
 
 Recent updates
 ----------------------
+* __Interaction Program__ [11 Feb 2023 (28 Magh 2079)]
+![Picture](https://github.com/brbhattarai/portfolio/blob/main/images/meet3.png?raw=true)
+
+* __Leadership Development and Policy Making Program__ [9-11 Feb 2023 (26-28 Magh 2079)]
+![Picture](https://github.com/brbhattarai/portfolio/blob/main/images/meet2.jpg?raw=true)
+
 * __Meeting with Labor Ministry__ [29 Jan 2023 (15 Magh 2079)]
 ![Picture](https://github.com/brbhattarai/portfolio/blob/main/images/meeting_magh15.jpg?raw=true)
+
+
 
 
 

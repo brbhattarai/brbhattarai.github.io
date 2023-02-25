@@ -1,6 +1,6 @@
 ---
 title: 'हरवा चरवाको अधिकार'
-date: 2023-02-25
+date: 2023-02-23
 permalink: /posts/2023/02/post02/
 tags:
   - Harwa Charwa

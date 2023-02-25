@@ -17,6 +17,7 @@ Welcome to my online world, where I share my thoughts, experiences, and insights
 
 Recent updates
 ----------------------
+* Published an article [<span style="color:green">*हरवा चरवाको अधिकार*</span>](https://gorkhapatraonline.com/news/55488) in Gorkhapatra on 25 Feb. 2023 (13 Falgun 2079)
 * Featured in Newspaper article [<span style="color:green">*बजेटसहित हरवाचरवा पुनःस्थापनाको कार्ययोजना ल्याउन माग*</span>](http://samatakhabar.com/2023/02/16/16246/?fbclid=IwAR1eoitn3wrWwwMFrB88_xXiFvJdETOjAzx5m3hZmu9mxhMfSP65lJYCVbw) in Samata Khabar Online on 16 Feb. 2023 (4 Falgun 2079)
 * [<span style="color:green">*Interaction Program*</span>](https://github.com/brbhattarai/portfolio/blob/main/images/meet3.png?raw=true){:target="_blank"} on 11 Feb 2023 (28 Magh 2079)
 

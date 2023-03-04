@@ -39,4 +39,4 @@ tags:
 
 विकास मानिसका लागि हो । विकासका नाममा विस्थापितहुनुलाई किमार्थ राम्रो मान्न सकिदैन । संघयिता संगै गाउँगाउँ मासिहदरबार भन्ने नाराबाट पुनःविपन्न नै विस्थापन हुने हो भने नाराको के अर्थ । यसमा प्रदेश सरकार र संघीय सरकार समेत मौन बस्न मिल्दैन । विकास निर्माणको काम गर्नेहरु समेत सम्वेदनशिल हुन आवश्यक छ । त्यसैगरी स्थानीय सरकारले विस्थापन रोक्नका लागि सहजीकरण गर्न आवश्यक छ र जनताका नाममा राजनीति गर्नेहरुले तत्काल विस्थापन रोक्न सक्रिय हुन आवश्यक छ ।
 
-This article was posted in Dalit Online on 3 March 2023. This is a [<span style="color:green">*link to the published article*</span>](https://dalitonline.com/archives/16681?fbclid=IwAR1_f73RseYYwYA50wuDvRZPl7xlPrySiaVhJARi7QHZ1ogtpmxVIBMjJZ4){:target="_blank"}
+This article was posted in Dalit Online on 3 March 2023. This is a [<span style="color:green">*link to the published article*</span>](https://dalitonline.com/archives/16681?fbclid=IwAR1_f73RseYYwYA50wuDvRZPl7xlPrySiaVhJARi7QHZ1ogtpmxVIBMjJZ4){:target="_blank"}.

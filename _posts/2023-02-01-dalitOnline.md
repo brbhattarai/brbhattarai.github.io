@@ -25,4 +25,4 @@ tags:
 
 उनलाई नजिकबाट चिन्नेहरु भन्दछन : उनीबिद्रोही तर व्यवाहारिक स्वभावका थिए । आफना कुरा प्रष्ट राख्न सक्ने हक्की स्वाभावका थिए । कोरा सिद्धान्त र कागजी काम कुरा भन्दा व्यबाहारिक काम कुरा गर्दथे । जीवनको उद्धेश्य नै हरवाचरवा र पिडितको वकालत गर्ने थियो । जो उनी बाँच्दासम्म गरि नै रहे । गणेश प्रसाद राम हामी बीचमा नरहे पनि उनले देखेका सपना र कोरेका बाटाहरु मेटिएका छैनन् । उनको सपनालाई पुरा गर्न निरन्तर प्रयास गर्नु नै उनीप्रति साँचो अर्थमा श्रद्धान्जली हुने छ । अलबिदा गणेश प्रसाद राम ।
 
-This article was posted in Paschim Today on 1st February 2023. This is a [<span style="color:green">*link to the published article*</span>](https://dalitonline.com/archives/16526?fbclid=IwAR0i2EVeL-F-xEVIOda64aOwR457RJFvt9rXw1SeLYPaGf1Ux0jDcksLkVk){:target="_blank"}
+This article was posted in Paschim Today on 1st February 2023. This is a [<span style="color:green">*link to the published article*</span>](https://dalitonline.com/archives/16526?fbclid=IwAR0i2EVeL-F-xEVIOda64aOwR457RJFvt9rXw1SeLYPaGf1Ux0jDcksLkVk){:target="_blank"}.

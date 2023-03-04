@@ -22,4 +22,4 @@ tags:
 
 वर्तमान कोरोना संकटका बीच समाजका विविध क्षेत्रले जसो–तसो प्रविधिलगायतका सहयोगमा विभिन्न विकल्पको विकास गरी जीवन धानिरहेको अवस्था छ । तर यहि समाजमा रहेका पछाडि पारिएका दैनिक कामबाट जीवन निर्वाह गर्नेहरु संकटमा छन् । उनीहरुसंग शारीरिक श्रमबाहेक अन्य कुनै विकल्प छैन । यसका लागि उनीहरु घरबाट बाहिर निक्लनु पर्ने बाध्यता छ । यस्तो अवस्थामा सरकारमा बस्नेहरुले दैनिक जीवन धान्न नै कठिन भएका समुदाय पहिचान गरी उनीहरुको गासको व्यवस्था गर्न आवश्यक छ ।
 
-This article was posted in Paschim Today on 27 August 2020. This is a [<span style="color:green">*link to the published article*</span>](https://paschimtoday.com/news-details/21794/2020-08-27?fbclid=IwAR0Q8L9REXbjgJrJXgHvYlK_iKPRPwRMNlzCdNcoPcKHVGDun8k0FS6Jdu4){:target="_blank"}
+This article was posted in Paschim Today on 27 August 2020. This is a [<span style="color:green">*link to the published article*</span>](https://paschimtoday.com/news-details/21794/2020-08-27?fbclid=IwAR0Q8L9REXbjgJrJXgHvYlK_iKPRPwRMNlzCdNcoPcKHVGDun8k0FS6Jdu4){:target="_blank"}.

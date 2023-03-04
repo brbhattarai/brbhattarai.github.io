@@ -18,7 +18,6 @@ Welcome to my online world, where I share my thoughts, experiences, and insights
 Recent updates
 ----------------------
 * Featured in Newspaper article [<span style="color:green">*आफ्नै घरमा कमैया नराखी कमैयाकै अधिकारका लागि लडेका बालाराम*</span>](https://www.ratopati.com/story/350046/balaram-bhatta-kamaiya?fbclid=IwAR2bqlfcJicx7cX8N26WhpeorHsikOokiN4c6FTraiI_WVNGUxa68rPqEl8) in Ratopati on 4 Mar. 2023 (20 Falgun 2079)
-![Picture](https://github.com/brbhattarai/portfolio/blob/main/images/galleryFiles/newsFeature4march2023.JPG?raw=true)
 * Published an article [<span style="color:green">*हरवा चरवाको अधिकार*</span>](https://gorkhapatraonline.com/news/55488) in Gorkhapatra on 25 Feb. 2023 (13 Falgun 2079)
 * Featured in Newspaper article [<span style="color:green">*बजेटसहित हरवाचरवा पुनःस्थापनाको कार्ययोजना ल्याउन माग*</span>](http://samatakhabar.com/2023/02/16/16246/?fbclid=IwAR1eoitn3wrWwwMFrB88_xXiFvJdETOjAzx5m3hZmu9mxhMfSP65lJYCVbw) in Samata Khabar Online on 16 Feb. 2023 (4 Falgun 2079)
 * [<span style="color:green">*Interaction Program*</span>](https://github.com/brbhattarai/portfolio/blob/main/images/meet3.png?raw=true){:target="_blank"} on 11 Feb 2023 (28 Magh 2079)

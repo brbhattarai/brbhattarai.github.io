@@ -51,4 +51,4 @@ tags:
 हरवाचरवा बाँधा श्रममा रहनु लोकतन्त्रको अपमान मात्र होइन, संविधानविपरीत पनि हो । संविधानले राजनीतिक अधिकार मात्र सुनिश्चित गरेको छैन; आर्थिक, सामाजिक अधिकारसमेत सुनिश्चित गरेको छ । अतः वर्तमान सरकारले संवैधानिक र कानुनी रूपबाटै निषेध गरिएका प्रथाका विरुद्धमा प्रभावकारी कदम चाल्न आवश्यक छ । 
 
 
-This article was posted in Gorkhpatra on 25 February 2023. This is a [<span style="color:green">*link to the published article*</span>](https://gorkhapatraonline.com/news/55488){:target="_blank"}
+This article was posted in Gorkhpatra on 25 February 2023. This is a [<span style="color:green">*link to the published article*</span>](https://gorkhapatraonline.com/news/55488){:target="_blank"}.

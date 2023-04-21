@@ -17,6 +17,7 @@ Welcome to my online world, where I share my thoughts, experiences, and insights
 
 Recent updates
 ----------------------
+* Featured in Newpaper article [<span style="color:green">*माग सम्बोधन नभए हरवा–चरवाले थप आन्दोलन गर्ने*</span>](https://gorkhapatraonline.com/news/60739?fbclid=IwAR0XL1TDuNUSZjC0pOoxnNpPbAz_54FRzhuv2P3GnUdnDR2zCYG8T9yE8Yk){:target="_blank"} in Gorkhapatra on 12 Apr. 2023 (29 Chaitra 2079)
 * Attended and particiapted in [<span style="color:green">*Harwa Charwa Rights March for Rehabilitation*</span>](https://github.com/brbhattarai/portfolio/blob/main/images/galleryFiles/8_12_apr_yatra.jpg){:target="_blank"} in Ganakpur from 8 to 12 Apr. 2023 (25-29 Chaitra 2079)
 * Featured in Newpaper article [<span style="color:green">*हरवा चरवाको समस्या समाधान गर्नमा मधेस सरकार सचेत छ*</span>](https://gorkhapatraonline.com/news/60378?fbclid=IwAR3Kjs-NcPj6IKcbdomuo5ow05eQjBwpdNnBfkLYGGh3-fV945tKW87D1LI){:target="_blank"} in Gorkhapatra on 9 Apr. 2023 (26 Chaitra 2079)
  * Featured in Newspaper article [<span style="color:green">*Haruwa-Charuwa call for introducing rehabilitation programs*</span>](https://myrepublica.nagariknetwork.com/news/haruwa-charuwa-call-for-introducing-rehabilitation-programme/?categoryId=81&fbclid=IwAR2lnV5bFpZrhvhKdmtb3gaSn6BcoiuN5VVlIj0kMpic-EiZvNEDJAXxiag){:target="_blank"} in My Republica on 15 Mar. 2023 (1 Chaitra 2079)
